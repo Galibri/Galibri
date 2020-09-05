@@ -39,7 +39,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://galibweb.com/2020/09/04/hello-world/)
+- [Upload and update file(s) in Laravel](https://galibweb.com/upload-and-update-files-in-laravel/)
+- [Delete uploaded file from Laravel public directory](https://galibweb.com/delete-uploaded-file-from-laravel-public-directory/)
+- [Unique slug generator in Laravel](https://galibweb.com/unique-slug-generator-in-laravel/)
+- [Leverage Browser Caching and Enable Compression](https://galibweb.com/leverage-browser-caching-and-enable-compression/)
+- [WordPress Register Sidebar Snippet](https://galibweb.com/wordpress-register-sidebar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
